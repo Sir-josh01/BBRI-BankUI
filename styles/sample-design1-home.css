@@ -1,0 +1,47 @@
+header {
+  background-image: url("https://images.unsplash.com/photo-1687197180710-b2b9484a3c5f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8");
+  /*    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNvbL4ZqyFzmUZh-nTz3Nvs41-OQLNzeCqA&s*/
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero {
+  height: 500px;
+}
+
+.overlay-dark {
+  background-color: rgb(0, 0, 0, 0.6);
+  padding-bottom: 100px;
+}
+
+.account {
+  margin-top: -115px;
+  background-image: url("https://images.unsplash.com/photo-1687197180710-b2b9484a3c5f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.account card {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.join-community {
+  width: 70%;
+  /* border: 3px solid red; */
+}
+
+
+.join-community-2 .more-info {
+  width: 180px;
+  font-size: 15px;
+  /* border: 3px solid green; */
+}
+
+
+.index-info {
+  background-color: #263A44;
+}
+
+.parag-white {
+  color: white;
+}
