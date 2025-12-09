@@ -31,12 +31,13 @@ To implement a clean, accessible, and responsive bank help/options section using
 
 ### Screenshot
 
-![](./Screenshots/bbri-bankui-screenshot.png)
+![](./Screenshots/Screenshot%20(234).png)
+![](./Screenshots/Screenshot%20(235).png)
+![](./Screenshots/Screenshot%20(236).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/your-username/BBRI-BANKUI)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sir-josh01.github.io/BBRI-BankUI/]
 
 ---
 
@@ -63,20 +64,13 @@ I gained a better understanding of advanced Bootstrap layout techniques, particu
 
 ### Continued development
 
-- Grid
 - DOM manipulation (for dynamic content changes, potentially integrating with a framework like React/Vanilla JS)
 - Animations (for transition effects on hover or interaction)
-
-### Useful resources
-
-- [Example resource 1](https://getbootstrap.com/docs/5.3/utilities/flex/) - This helped me efficiently structure the multiple options using Flexbox utilities. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://icons.getbootstrap.com/) - This is an amazing resource which helped me find appropriate, contextual icons for the different help options.
-
----
+- Add a backend with database to make it more dynamic 
 
 ## Author
 
-- Website - [portfolio](https://your-portfolio-url)
+- Website - [portfolio](https://my-portfolio-sir-josh01-projects.vercel.app/)
 
 ## Acknowledgments
 
